@@ -38,7 +38,6 @@
 }
 .hobby-circle:hover {
     transform: scale(1.2);
-    background-color: #007BFF; 
     color: white;
     transition: all 0.2s ease;
 }
@@ -48,7 +47,7 @@
     transition: all 0.3s ease; 
 }
 .navbar-nav .nav-link:hover {
-    color: #007BFF; 
+    color: #ffffff; 
     text-decoration: underline;
     transition: color 0.2s ease;
 }
